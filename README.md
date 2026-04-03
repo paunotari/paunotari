@@ -42,7 +42,3 @@ Always open to collaborating on interesting projects and learning new things.
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/paunotari)
 &nbsp;&nbsp;
 [![website](./img/instagram-2.svg)](https://www.instagram.com/pau_notari)
-
-
-<br />
-<br />
