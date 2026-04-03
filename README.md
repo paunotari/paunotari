@@ -39,11 +39,10 @@ Always open to collaborating on interesting projects and learning new things.
 
 ### Connect with me:
 
-[![website](https://github.com/user-attachments/assets/066a5f99-a63f-4b82-b8d9-ed0ab8153b1a)](https://www.linkedin.com/in/paunotari/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/paunotari/#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/paunotari)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/pau_notari#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/pau_notari#gh-dark-mode-only)
+[![website](./img/instagram-2.svg)](https://www.instagram.com/pau_notari)
+
 
 <br />
 <br />
